@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my new project TutorMe!
+- 🌱 I’m currently learning more about Python and AI/ML
 
 <!--
 **kchen53/kchen53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
