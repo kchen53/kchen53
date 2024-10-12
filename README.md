@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on new project called TutorMe!
 - 🌱 I’m currently learning more about Python and AI/ML
+- 😄 Pronouns: she/her/hers
 
 <!--
 **kchen53/kchen53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
