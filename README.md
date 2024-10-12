@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my new project TutorMe!
+- 🔭 I’m currently working on new project called TutorMe!
 - 🌱 I’m currently learning more about Python and AI/ML
 
 <!--
