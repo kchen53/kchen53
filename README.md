@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on new project called TutorMe!
+- 🔭 I’m currently working on new projects called TutorMe and Dine or Stir!
 - 🌱 I’m currently learning more about Python and AI/ML
 - 😄 Pronouns: she/her/hers
 
