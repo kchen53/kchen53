@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on new projects called TutorMe and Dine or Stir!
-- 🌱 I’m currently learning more about Python and AI/ML
+- 🌱 I’m currently learning more about Python, AI/ML, and APIs
 - 😄 Pronouns: she/her/hers
 
 <!--
